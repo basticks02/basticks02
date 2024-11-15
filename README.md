@@ -1,8 +1,10 @@
-## Hi there 👋
+## Anticipate Ekomobong's Insider - My Portfolio (Under development)
 
-- 🔭 I’m currently working on Full Stack web apps!
+- Electrical Engineering, CS + Math @ Howard University
+- 🔭 I’m currently working on Full Stack web apps, looking to work on AI/ML projects!
 - ⚡ Fun fact: I speak 5 languages (mostly Nigerian dialects)
 - 📫 How to reach me: ekomobongekanem@gmail.com
+- 
 <!--
 **basticks02/basticks02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
