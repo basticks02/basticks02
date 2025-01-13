@@ -1,4 +1,4 @@
-# Ekomobong Ekanem
+# Ekomobong Ekanem...
 
 ### Electrical Engineering | CS & Math 
 📍 **Howard University, Class of 2027**  
@@ -23,15 +23,7 @@ Hello! I’m **Ekomobong Ekanem**, an ambitious sophomore at Howard University m
 ## 🛠 Technical Skills  
 - **Programming Languages:** Python, C/C++, JavaScript, HTML5/CSS3  
 - **Frameworks/Tools:** React.js, Node.js, Express, SQL (PostgreSQL), Prisma ORM, AWS, Git/GitHub, MATLAB, Xcode  
-- **Other Skills:** Problem-Solving, Critical Thinking, Communication  
-
----
-
-## 🎓 Education  
-**Howard University**  
-**B.S. in Electrical Engineering** | GPA: 4.0 | Dean’s List  
-- **Honors & Scholarships:** HU Achiever's Scholarship, Lockheed Martin STEM Scholarship  
-- **Relevant Coursework:** Data Structures & Algorithms, Cybersecurity, Circuit Theory, Digital Systems, Object-Oriented Programming  
+- **Other Skills:** Problem-Solving, Critical Thinking, Communication   
 
 ---
 
@@ -45,24 +37,6 @@ Hello! I’m **Ekomobong Ekanem**, an ambitious sophomore at Howard University m
 **Market Madness Scholar**  
 - Analyzed market trends for **Nike’s strategic acquisition of Strava**, mastering financial and leadership skills.  
 
----
-
-## 🌟 Featured Projects  
-### [Synchronize Health App](https://github.com/Synchronize-X/synchronize)  
-- Built a comprehensive health management app using the MERN stack.  
-- Integrated real-time notifications and a caching algorithm to enhance performance.
-
-### [Flixster](https://flixster-starter-3c57.onrender.com/)  
-- Interactive movie site featuring search, sort, and like functionalities.  
-- Utilized the TMDb API to provide real-time movie data and trailers.
-
----
-
-## 🌐 Leadership & Volunteering  
-- **President, Ambassadors for Christ Initiative** (Uyo, Nigeria)  
-  - Raised funds to support underprivileged students and organized educational trips.  
-- **Thurgood Marshall College Fund 'The Pitch' Innovator**  
-  - Developed and pitched **MedEdge**, an AI-powered solution for reducing medical errors.  
 
 ---
 
