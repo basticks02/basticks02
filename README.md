@@ -1,7 +1,7 @@
-## Anticipate Ekomobong's Insider - My Portfolio (Under development)
+## Ekomobong Ekanem... 
 
 - Electrical Engineering, CS + Math @ Howard University
-- 🔭 I’m currently working on Full Stack web apps, looking to work on AI/ML projects!
+- 🔭 I’m currently working on Full Stack & iOS web apps, looking to work on AI/ML projects!
 - ⚡ Fun fact: I speak 5 languages (mostly Nigerian dialects)
 - 📫 How to reach me: ekomobongekanem@gmail.com
 - 
