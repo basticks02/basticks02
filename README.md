@@ -1,8 +1,8 @@
 # Ekomobong Ekanem
 
-### Electrical Engineering | Computer Science | Mathematics  
+### Electrical Engineering | CS & Math 
 📍 **Howard University, Class of 2027**  
-💻 **Full-Stack Developer | AI/ML Enthusiast**
+💻 **Web | Hardware | AI/ML**
 
 ---
 
