@@ -21,24 +21,11 @@ Leveraging technology to bridge the digital divide, especially in underserved co
 
 ---
 
-## Skills  
-- **Programming Languages:** Python, C/C++, JavaScript, HTML5/CSS3, PHP (Hack)
-- **Frameworks/Tools:** React.js, Node.js, Express, SQL (PostgreSQL), Prisma ORM, AWS, Git/GitHub, MATLAB, KiCad, ChatGPT (lol)  
-
----
-
 ## Affiliations  
 NSBE, IEEE, MLT, Tau Beta Phi, Codepath, Colorstack, Google TEC, UNCF, TMCF, NSTMF @ Howard (inSTEM)
 
----
-
-## Contact Me  
-**Email:** [ekomobongekanem@gmail.com](mailto:ekomobongekanem@gmail.com)  
-**Portfolio:** [ekomobong.netlify.app](https://ekomobong.netlify.app)  
-**LinkedIn:** [linkedin.com/in/ekomobongekanem](https://linkedin.com/in/ekomobongekanem)  
-**GitHub:** [github.com/basticks02](https://github.com/basticks02)  
 
 ---
 
-## Let’s Build the Future Together 
-Check out my portfolio, explore my projects, and feel free to connect for collaborations or opportunities!
+Let’s Build the Future Together 
+
