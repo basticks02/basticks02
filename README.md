@@ -4,7 +4,7 @@
 
 ---
 
-**Ekomobong**, a Howard University Electrical Engineering undergraduate has a wealth of experience in software @ **Meta**. With a passion for problem-solving and innovation, he specializes in building impactful software solutions and exploring the intersection of hardware, software, and artificial intelligence.
+**Ekomobong**, a Howard University Electrical Engineering undergraduate has a wealth of experience in software @ **Meta**. With a passion for problem-solving and innovation, he specializes in building impactful software solutions and exploring the intersection of hardware, software, and machine intelligence.
 
 Leveraging technology to bridge the digital divide, especially in underserved communities.  
 
