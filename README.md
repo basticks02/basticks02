@@ -11,13 +11,13 @@ Leveraging technology to bridge the digital divide, especially in underserved co
 ---
 
 ## Experience  
-- UARC Optimization Research @ US DoD (with Howard) - Onboarding
+- Optimization Research @ US Department of Defense (RITA UARC Howard) - Onboarding
 - Software @ **Meta** - Summer 2025, Summer 2026 (Incoming)
 - Software @ **Meta** (University) - Summer 2024
 - Operations @ **The Home Depot** - Fall 2025
 - AI Evaluation @ **Outlier** - Ongoing
 - Latitude Fellow @ **DE Shaw & CO** - Spring 2025
-- R&D Exter @ **Alcon** - Fall 2024
+- R&D Extern @ **Alcon** - Fall 2024
 
 ---
 
