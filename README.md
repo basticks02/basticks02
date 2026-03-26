@@ -1,13 +1,14 @@
 ## Ekomobong Ekanem...
 
-**web | hardware | ai/ml** ⚡ 
+**web | hardware | ml** 
 
 ---
 
-**Ekomobong** has a strong passion for problem-solving & innovation. He specializes in building impactful software solutions and exploring the intersection of hardware, software, and machine intelligence.
+**Ekomobong** builds impactful software solutions and explores the intersection of hardware, software, and machine intelligence.
 
 
 ### exploits  
+- Founder & CEO @ **Scuba**
 - Optimization Research @ **US Department of War** (RITA UARC Howard) - Ongoing
 - Software @ **Meta** - Summer 2025, Summer 2026 (Incoming)
 - Software @ **Meta** (University) - Summer 2024
