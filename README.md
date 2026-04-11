@@ -1,11 +1,6 @@
-## Ekomobong Ekanem...
-
-**web | hardware | ml** 
+thinking and building :)
 
 ---
-
-**Ekomobong** builds impactful software solutions and explores the intersection of hardware, software, and machine intelligence.
-
 
 ### exploits  
 - Founder & CEO @ **Scuba**
