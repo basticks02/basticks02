@@ -22,5 +22,3 @@ NSBE, IEEE, MLT, Tau Beta Phi, Codepath, Colorstack, Google TEC, UNCF, TMCF, NST
 
 let’s Build the Future Together 
 
-[here](https://x.com/BamiFreak/status/2044960810619773081?s=20)
-
