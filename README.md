@@ -3,7 +3,7 @@ thinking and building :)
 ---
 
 ### exploits  
-- Founder & CEO @ **Scuba**
+- Founder, CEO @ **Scuba** (f.inc canopy)
 - Optimization Research @ **US Department of War** (RITA UARC Howard) - Ongoing
 - Software @ **Meta** - Summer 2025, Summer 2026 (Incoming)
 - Software @ **Meta** (University) - Summer 2024
