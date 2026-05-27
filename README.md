@@ -4,8 +4,8 @@ thinking and building :)
 
 ### exploits  
 - Founder, CEO @ **Scuba** (f.inc canopy)
-- Optimization Research @ **US Department of War** (RITA UARC Howard) - Ongoing
-- Software @ **Meta** - Summer 2025, Summer 2026 (Incoming)
+- Optimization Research @ **US Department of War** (RITA UARC Howard) - Spring 2026
+- Network Delivery Engineering @ **Meta** - Summer 2026, Summer 2025
 - Software @ **Meta** (University) - Summer 2024
 - Operations @ **The Home Depot** - Fall 2025
 - AI Evaluation @ **Outlier** - Ongoing
