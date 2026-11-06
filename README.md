@@ -3,7 +3,8 @@ thinking and building :)
 ---
 
 ### exploits  
-- Founder @ **Scuba** (f.inc canopy)
+- Commander @ **Scuba**
+- AIFX @ **Uber** - Fall 2026 
 - Optimization Research @ **US Department of War** (RITA UARC Howard) - Spring 2026
 - Network Infra @ **Meta** - Summer 2026, Summer 2025
 - Software @ **Meta** (University) - Summer 2024
