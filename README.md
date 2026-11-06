@@ -11,6 +11,7 @@ thinking and building :)
 - Disaster Operations @ **The Home Depot** - Fall 2025
 - Latitude Fellow @ **DE Shaw & CO** - Spring 2025
 - R&D Extern @ **Alcon** - Fall 2024
+- Market Madness @ **Goldman Sachs** - Spring 2024 
 
 
 
